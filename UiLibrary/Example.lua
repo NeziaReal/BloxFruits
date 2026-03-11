@@ -1,5 +1,5 @@
 -- Load the library
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vita6it/Antigravity/refs/heads/main/Utils/Library.lua"))() -- Replace with actual path
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NeziaReal/BloxFruits/refs/heads/main/UiLibrary/Library.lua"))() -- Replace with actual path
 
 -- Create the main window
 local Window = Library:Window({
