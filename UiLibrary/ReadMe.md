@@ -1,5 +1,7 @@
 # UiLibrary
-
+<p align="center">
+  <img src="Showcase.png" width="700">
+</p>
 Reimagined Ui Library is a simple Roblox UI library that allows developers to easily create windows, tabs, and UI components with a clean API.
 
 ---
