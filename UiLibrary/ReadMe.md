@@ -1,6 +1,6 @@
 # UiLibrary
 
-UiLibrary is a simple Roblox UI library that allows developers to easily create windows, tabs, and UI components with a clean API.
+Reimagined Ui Library is a simple Roblox UI library that allows developers to easily create windows, tabs, and UI components with a clean API.
 
 ---
 
