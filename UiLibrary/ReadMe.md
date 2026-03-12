@@ -19,7 +19,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nezia
 # Basic Example
 
 ```lua
-local Library = loadstring(game:HttpGet("URL"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NeziaReal/BloxFruits/refs/heads/main/UiLibrary/Library.lua"))()
 
 local Window = Library:CreateWindow({
     Name = "Example UI"
