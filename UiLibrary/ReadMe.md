@@ -23,7 +23,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nezia
 
 local Window = Library:Window({
     Title = "Sigma Ui",  -- Your window title
-    SubTitle = "Made by nezia"  -- Your subtitle
+    SubTitle = "Reworked By Nezia"  -- Your subtitle
 })
 
 local Tab = Window:CreateTab("Main")
@@ -45,8 +45,9 @@ Tab:CreateButton({
 Creates the main UI window.
 
 ```lua
-local Window = Library:CreateWindow({
-    Name = "Window Name"
+local Window = Library:Window({
+    Title = "Nez's Project",  -- Your window title
+    SubTitle = "Reworked by nezia_real"  -- Your subtitle
 })
 ```
 
@@ -193,7 +194,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nezia
 -- Create the main window
 local Window = Library:Window({
     Title = "Nez's Project",  -- Your window title
-    SubTitle = "Made by Nezia"  -- Your subtitle
+    SubTitle = "Reworked by Nezia"  -- Your subtitle
 })
 
 -- Create a new page
