@@ -21,8 +21,9 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nezia
 ```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NeziaReal/BloxFruits/refs/heads/main/UiLibrary/Library.lua"))()
 
-local Window = Library:CreateWindow({
-    Name = "Example UI"
+local Window = Library:Window({
+    Title = "Sigma Ui",  -- Your window title
+    SubTitle = "Made by nezia"  -- Your subtitle
 })
 
 local Tab = Window:CreateTab("Main")
@@ -191,8 +192,8 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nezia
 
 -- Create the main window
 local Window = Library:Window({
-    Title = "Xova's Project",  -- Your window title
-    SubTitle = "Made by s1nve"  -- Your subtitle
+    Title = "Nez's Project",  -- Your window title
+    SubTitle = "Made by Nezia"  -- Your subtitle
 })
 
 -- Create a new page
